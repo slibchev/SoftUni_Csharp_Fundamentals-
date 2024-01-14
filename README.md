@@ -1,2 +1,2 @@
-# SoftUni_Csharp_Fundamentals-
+# SoftUni_Csharp_Fundamentals
 Data Types and Variables
